@@ -1,5 +1,5 @@
 # Chatapp
-chatapp With Interface Graphic using react and socket io
+chatapp With Interface Graphic using react js and socket io
 Enter to dir server and run the cmd npm install after npm start and same thing for other dir
 Screen 1 :
 ![12](https://github.com/ikhlas1936/Chatapp/assets/129891260/fcded296-80af-46e5-92e6-c2173e2e2cc5)
